@@ -57,6 +57,3 @@ https://github.com/naz781/hotelvercel/blob/main/public/third.png
 
 ---
 
-## License
-
-MIT License
