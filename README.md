@@ -45,7 +45,7 @@ It is built for **portfolio purposes** and is **not publicly deployable** due to
 
 ## Demo & Code
 
-- **ScreenShots:** [Hotel Booking Demo](<img width="975" height="589" alt="image" src="https://github.com/user-attachments/assets/85352d46-0a73-43c1-b832-7b4458822b9f"  />
+- **ScreenShots:**(https://github.com/naz781/hotelvercel/blob/main/public/homepage.png) />
  />
  />
 )  
