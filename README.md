@@ -43,7 +43,8 @@ It is built for **portfolio purposes** and is **not publicly deployable** due to
 
 ---
 
-## Demo & Code
+## Screen Shots
+<img width="625" height="377" alt="image" src="https://github.com/user-attachments/assets/93a25416-f83d-4424-a04c-4b1a616ff534" />
 
 - **ScreenShots:**(https://github.com/naz781/hotelvercel/blob/main/public/homepage.png) />
 - https://github.com/naz781/hotelvercel/blob/main/public/second.png
